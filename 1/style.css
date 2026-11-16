@@ -1,0 +1,66 @@
+body {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.container{
+    margin: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 75px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #ffc9d4;
+}
+
+.title{
+    text-transform: uppercase;
+}
+
+.text-center{
+    text-align: center!important;
+}
+
+.bio{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.box{
+    padding: 10px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.btn{
+    line-height: 2;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.btn-facebook{
+    background-color: rgb(33, 119, 231);
+    color: rgb(247, 244, 244);
+}
+
+.btn-facebook:hover{
+    background-color: rgb(102, 147, 231);
+}
+
+.btn-instagram{
+    background-color: rgb(236, 80, 106);
+}
+
+.btn-instagram:hover{
+    background-color: rgb(252, 127, 168);
+}
+
+.btn-tiktok{
+    background-color: rgb(54, 63, 70);
+}
+
+.btn-tiktok:hover{
+    background-color: rgb(97, 90, 99);
+}
