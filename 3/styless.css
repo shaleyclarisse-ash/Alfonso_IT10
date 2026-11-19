@@ -1,0 +1,26 @@
+body {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.container{
+    margin: auto;
+    width: 80%;
+    margin-top: 75px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.menu-item{
+    height: 400px!important;
+}
+
+.menu-item-bg{
+    background-color: rgb(169, 171, 171);
+}
+
+.menu-item:hover{
+    transform: translateY(-5px);
+}
+
